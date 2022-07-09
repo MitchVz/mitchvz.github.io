@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/web-cal/static/css/main.073c9b0a.css",
+    "main.js": "/web-cal/static/js/main.bb1bec43.js",
+    "static/js/787.3e266a5d.chunk.js": "/web-cal/static/js/787.3e266a5d.chunk.js",
+    "static/media/logo.svg": "/web-cal/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/web-cal/index.html",
+    "main.073c9b0a.css.map": "/web-cal/static/css/main.073c9b0a.css.map",
+    "main.bb1bec43.js.map": "/web-cal/static/js/main.bb1bec43.js.map",
+    "787.3e266a5d.chunk.js.map": "/web-cal/static/js/787.3e266a5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bb1bec43.js"
+  ]
+}
